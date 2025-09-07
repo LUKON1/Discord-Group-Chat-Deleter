@@ -106,7 +106,8 @@ groupDeleter();
 
 6. Вставьте его в консоль и нажмите Enter или нажмите Run кнопку.
    Paste into console and press Enter or press Run button.
-
+   если консоль предупреждает о невозможности вставки, напишите руками "allow pasting" в консоли и нажмите enter или run | if the console warns about the impossibility of       pasting, manually write "allow pasting" in the console and press enter or run.
+   
 7. Следите за логами — скрипт начнёт прокручивать список и выходить из чатов.
    Watch console logs — script will scroll and process group chats.
 
